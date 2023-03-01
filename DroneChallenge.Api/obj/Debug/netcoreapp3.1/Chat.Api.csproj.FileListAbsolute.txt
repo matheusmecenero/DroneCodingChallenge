@@ -1,0 +1,7 @@
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.csproj.AssemblyReference.cache
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.AssemblyInfoInputs.cache
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.AssemblyInfo.cs
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,17 @@
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Service.deps.json
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Service.dll
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Service.pdb
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Domain.dll
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Repository.dll
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Domain.pdb
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\bin\Debug\net6.0\Chat.Repository.pdb
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.csproj.AssemblyReference.cache
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.AssemblyInfoInputs.cache
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.AssemblyInfo.cs
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.csproj.CopyComplete
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.dll
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\refint\Chat.Service.dll
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\Chat.Service.pdb
+C:\Users\Matheus Mecenero\source\repos\Chat\Chat.Service\obj\Debug\net6.0\ref\Chat.Service.dll

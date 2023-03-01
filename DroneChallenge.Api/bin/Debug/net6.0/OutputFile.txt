@@ -1,0 +1,21 @@
+[DroneA]
+Trip #1
+[LocationM],[LocationI],[LocationH]
+[DroneA]
+Trip #1
+[LocationD]
+[DroneA]
+Trip #1
+[LocationA]
+[DroneB]
+Trip #1
+[LocationL],[LocationO],[LocationK],[LocationN],[LocationC],[LocationG],[LocationJ]
+[DroneB]
+Trip #1
+[LocationE],[LocationB]
+[DroneB]
+Trip #1
+[LocationF]
+[DroneC]
+Trip #1
+[LocationP]

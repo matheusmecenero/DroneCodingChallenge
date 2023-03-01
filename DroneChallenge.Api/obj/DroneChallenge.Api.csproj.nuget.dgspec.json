@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Api\\DroneChallenge.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Api\\DroneChallenge.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Api\\DroneChallenge.Api.csproj",
+        "projectName": "DroneChallenge.Api",
+        "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Api\\DroneChallenge.Api.csproj",
+        "packagesPath": "C:\\Users\\Matheus Mecenero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Mecenero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Application\\DroneChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Application\\DroneChallenge.Application.csproj"
+              },
+              "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj"
+              },
+              "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj": {
+                "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Application\\DroneChallenge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Application\\DroneChallenge.Application.csproj",
+        "projectName": "DroneChallenge.Application",
+        "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Application\\DroneChallenge.Application.csproj",
+        "packagesPath": "C:\\Users\\Matheus Mecenero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Mecenero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj": {
+                "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj",
+        "projectName": "DroneChallenge.Domain",
+        "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj",
+        "packagesPath": "C:\\Users\\Matheus Mecenero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Mecenero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj",
+        "projectName": "DroneChallenge.Service",
+        "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj",
+        "packagesPath": "C:\\Users\\Matheus Mecenero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus Mecenero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Domain\\DroneChallenge.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

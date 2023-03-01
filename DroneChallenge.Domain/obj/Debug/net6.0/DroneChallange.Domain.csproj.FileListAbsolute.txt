@@ -1,0 +1,12 @@
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\bin\Debug\net6.0\DroneChallange.Domain.deps.json
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\bin\Debug\net6.0\DroneChallange.Domain.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\bin\Debug\net6.0\DroneChallange.Domain.pdb
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.csproj.AssemblyReference.cache
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.AssemblyInfoInputs.cache
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.AssemblyInfo.cs
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\refint\DroneChallange.Domain.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\DroneChallange.Domain.pdb
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Domain\obj\Debug\net6.0\ref\DroneChallange.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NvBLaSqozk8cLilD9SjTfUJLGAI03LD7tJXzV0C+laU=",
+  "Source": "DroneChallenge.Api",
+  "BasePath": "_content/DroneChallenge.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

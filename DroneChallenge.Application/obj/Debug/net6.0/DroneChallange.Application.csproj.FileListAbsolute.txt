@@ -1,0 +1,17 @@
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Application.deps.json
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Application.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Application.pdb
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Domain.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Service.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Service.pdb
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\bin\Debug\net6.0\DroneChallange.Domain.pdb
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.csproj.AssemblyReference.cache
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.AssemblyInfoInputs.cache
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.AssemblyInfo.cs
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.csproj.CopyComplete
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\refint\DroneChallange.Application.dll
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\DroneChallange.Application.pdb
+C:\Users\Matheus Mecenero\source\repos\DroneChallange\DroneChallange.Application\obj\Debug\net6.0\ref\DroneChallange.Application.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqHRB95QSlGDjR+6AkLO350BTer/Fp8tvFDvLC1p+cGWtZDkHIZvYMZ2SD8L6Vz91GKOhw80wDdkFzd6IpoI4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Mecenero\\source\\repos\\DroneChallenge\\DroneChallenge.Service\\DroneChallenge.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Mecenero\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Matheus Mecenero\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
